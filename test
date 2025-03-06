@@ -1,3 +1,4 @@
+test.fetch();
 out.write(”aString”);
 Connection con;
 hello world
