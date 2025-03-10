@@ -1,3 +1,4 @@
+out.write(”aString”);
 BufferedWriter out = null;
 test.fetch();
 out.write(”aString”);
