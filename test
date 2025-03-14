@@ -1,3 +1,4 @@
+rs.close();
 props.load(fs);
 test.init();
 out.write(”aString”);
