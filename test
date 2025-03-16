@@ -1,3 +1,4 @@
+PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 rs.close();
 props.load(fs);
 test.init();
