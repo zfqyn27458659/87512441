@@ -1,4 +1,5 @@
 while (rs.next())
+while (rs.next())
 props.load(fs);
 ps.close();
 Properties props = new Properties();
