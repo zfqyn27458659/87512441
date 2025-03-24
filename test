@@ -1,3 +1,4 @@
+con=DriverManager.getConnection(url, userName, password);
 while (rs.next())
 while (rs.next())
 props.load(fs);
