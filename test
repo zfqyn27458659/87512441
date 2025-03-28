@@ -1,3 +1,4 @@
+String password = props.getProperty("db.password");
 public static void main(String[] args)
 props.load(fs);
 String driverClass = "oracle.jdbc.driver.OracleDriver";
