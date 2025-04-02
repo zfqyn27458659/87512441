@@ -1,3 +1,4 @@
+public static void main(String[] args)
 // error processing code
 test.init();
 String password = props.getProperty("db.password");
